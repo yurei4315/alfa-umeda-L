@@ -239,7 +239,7 @@ button {
 * Color
 *********************/
 .bg-color--keycolor {
-  background-color: #e6e6e6;
+  background-color: #8aa1b587;
 }
 
 .bg-color--subcolor {
@@ -274,7 +274,7 @@ button {
   line-height: 1.75;
   text-align: center;
   padding: 9px 20px;
-  background-color: #d9e021;
+  background-color: #889FB3;
   margin: 0 -20px 20px -20px;
 }
 
